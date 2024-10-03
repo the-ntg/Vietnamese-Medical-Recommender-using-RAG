@@ -1,4 +1,5 @@
 # Vietnamese-Medical-Recommender-using-RAG
 Vietnamese Medical Recommender using RAG
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/20a13715-e161-417b-ba51-ea068c7ea472)
+
